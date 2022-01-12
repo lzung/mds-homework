@@ -8,7 +8,7 @@ A GitHub repository that serves 2 purposes:
 
 # Usage
 
-1. Click the green "**Use this template** repository to obtain a copy of it for yourself (do not fork it).
+1. Click the green "**Use this template**" repository to obtain a copy of it for yourself (do not fork it).
 
 2. Create a remote branch named `create` (this will use GitHub Actions to create 19 issues for you in your copy of this repository).
 
